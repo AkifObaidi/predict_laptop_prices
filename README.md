@@ -17,3 +17,5 @@ The program can predict the Laptop prices based on Ram,Cpu,Memory,Windows.
 | 8  | 5  | 500 | 10  | 58000 |
 | 16  | 7  | 512  | 11  | 96000 |
 ## Check predictor.ipynb for the code.
+## Note
+You can change the laptop_prices.csv to your data. I found these data on a shooping website you can put your data and predict based on your data. 
